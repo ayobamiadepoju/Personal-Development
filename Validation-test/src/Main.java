@@ -10,7 +10,7 @@ class Main {
 
         User[] users = {user1, user2, user3, user4};
         for (User user : users) {
-            System.out.println("Validating User ...");
+            System.out.println("Validating User ..");
             try {
                 Validator.validate(user);
                 System.out.println(user.getFirstName() + " " + user.getLastName() + " " + user.getEmail());
