@@ -9,5 +9,5 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 public @interface NotNull {
 
-    String message() default "Field is required";
+    String message() default "Field must not be null";
 }
