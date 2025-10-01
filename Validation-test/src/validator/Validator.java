@@ -1,3 +1,5 @@
+package validator;
+
 import annotations.Email;
 import annotations.NotEmpty;
 import annotations.NotNull;
