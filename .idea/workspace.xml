@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cd06635-ce0c-40e4-ac36-7a858e62b92d" name="Changes" comment="Add new validation examples for Java annotations" />
+    <list default="true" id="4cd06635-ce0c-40e4-ac36-7a858e62b92d" name="Changes" comment="Add new validation examples for Java annotations">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/Validation-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/Validation-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/src/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/src/annotations/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/annotations/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/src/annotations/NotEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/annotations/NotEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/src/annotations/NotNull.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/annotations/NotNull.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/src/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/src/exception/ValidationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/exception/ValidationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation-test/src/validator/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/validator/Validator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Logging-using-annotations" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -41,19 +60,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ayoba/Documents/GitHub/Personal-Development",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ayoba/Documents/GitHub/Personal-Development&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ayoba\Documents\GitHub\Personal-Development\Task 1" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4cd06635-ce0c-40e4-ac36-7a858e62b92d" name="Changes" comment="" />
@@ -93,6 +117,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/Logging-using-annotations" />
+      <path value="$PROJECT_DIR$/Validation-test" />
+    </ignored-roots>
     <MESSAGE value="Add new validation examples for Java annotations" />
     <option name="LAST_COMMIT_MESSAGE" value="Add new validation examples for Java annotations" />
   </component>
