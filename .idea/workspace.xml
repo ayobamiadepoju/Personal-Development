@@ -5,24 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cd06635-ce0c-40e4-ac36-7a858e62b92d" name="Changes" comment="Add new validation examples for Java annotations">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/Validation-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/Validation-test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/src/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/src/annotations/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/annotations/Email.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/src/annotations/NotEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/annotations/NotEmpty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/src/annotations/NotNull.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/annotations/NotNull.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/src/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/src/exception/ValidationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/exception/ValidationException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validation-test/src/validator/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Validation-test/src/validator/Validator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/Validation-test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/src/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/src/annotations/Email.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/src/annotations/NotEmpty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/src/annotations/NotNull.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/src/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/src/exception/ValidationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Validation-test/src/validator/Validator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +35,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
